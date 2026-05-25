@@ -16,26 +16,7 @@
 </p>
 
 </div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=sidlukassen&style=for-the-badge&color=95BF47" />
-
-<br/>
-<br/>
-
-<img src="https://img.shields.io/github/followers/sidlukassen?style=for-the-badge&color=111111&labelColor=95BF47" />
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=111111&labelColor=95BF47&label=Repositories&query=public_repos&url=https://api.github.com/users/sidlukassen" />
-<img src="https://img.shields.io/github/stars/sidlukassen?style=for-the-badge&color=111111&labelColor=95BF47" />
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/sidlukassen?tab=followers">
-  <img src="https://contrib.rocks/image?repo=sidlukassen/YOUR_REPO" />
-</a>
-
 </div>
